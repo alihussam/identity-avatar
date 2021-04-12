@@ -6,8 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alihussam/identity-avatar.git"
+  },
   "author": "Ali Hussam <alihussam.cs@gmail.com>",
-  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alihussam/identity-avatar/issues"
+  },
+  "homepage": "https://github.com/alihussam/identity-avatar",
+  "keywords": [ "Avatar", "Identity Avatar", "Initial Avatar", "Initial"],
+  "license": "MIT",
   "dependencies": {
     "canvas": "^2.7.0"
   }
