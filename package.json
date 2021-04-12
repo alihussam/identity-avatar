@@ -1,0 +1,14 @@
+{
+  "name": "identity-avatar",
+  "version": "1.0.0-beta.0",
+  "description": "Initital avatar generator to run at server side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Hussam <alihussam.cs@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.7.0"
+  }
+}
